@@ -70,6 +70,7 @@ public void registrarReporte()
  ![Bucket](https://github.com/ramirezxc02/ramirezxc02/blob/main/Bucket_Sequence.jpg)
 
  ### **Referrals Bucket Module Test Case example** ✔
+ 
  ![Bucket]( https://github.com/ramirezxc02/ramirezxc02/blob/main/GCS_Bucket_TestCase.jpg)
 
 
@@ -85,6 +86,7 @@ public void registrarReporte()
 # **Automated Password bot** 😎 In progress...
    This is an internal bot which will be in charge of update bots with the new password. This is necessary because we have to update more than 70 accounts 2 times per month.😥
    This Bot interact with a internal platform where the new password is created and with orchestrator which is the place where the assets are located. This will contribute to the D2C support team.
+   
    ![Pacman](https://github.com/ramirezxc02/ramirezxc02/blob/main/Pacman.gif)
    
 ## Best Practices 🎉
