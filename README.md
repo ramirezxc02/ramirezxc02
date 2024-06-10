@@ -14,7 +14,7 @@ I love solving complex problems and turning ideas into efficient solutions.
 With a keen eye for detail and a drive for continuous learning, 
 I strive to deliver high-quality software that exceeds expectations.
 
-![Robot](https://github.com/ramirezxc02/ramirezxc02/blob/main/robotGif.gif)
+![Robot](https://github.com/ramirezxc02/ramirezxc02/blob/main/image.jpg)
 
 ## Experience
  **Software Engineer/RPA Specialist** at Equifax (2022 - Present) 🐱‍💻
