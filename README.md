@@ -85,7 +85,7 @@ This is a company process, I can't give too much detailes due to company policie
   
  ![RobotBebe](https://github.com/ramirezxc02/ramirezxc02/blob/main/polifolli-robot.gif)
 
- ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+ ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 # **Automated Password bot** 😎 In progress...
    This is an internal bot which will be in charge of update bots with the new password. This is necessary because we have to update more than 70 accounts 2 times per month.😥
    This Bot interact with a internal platform where the new password is created and with orchestrator which is the place where the assets are located. This will contribute to the D2C support team.
