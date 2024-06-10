@@ -37,8 +37,11 @@ I strive to deliver high-quality software that exceeds expectations.
   - Integrate frontend components with backend APIs to fetch and display dynamic data.
   - Conduct frontend testing, including unit testing and end-to-end testing, to ensure functionality and compatibility across browsers and devices.
     
-## Some projects
- #### **ISLAPP** this was one of my last university projects, and I'm really proud of it. This was created for "San Lucas Island" employers to automate the way that they stored the ilicit activities made by whoever which was visiting the island. The main technologies used for developing thi project were C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers". You can see further info here:
+# Projects 🧨
+
+ #### **ISLAPP** 
+ This was one of my last university projects, and I'm really proud of it. This was created for "San Lucas Island" employers to automate the way that they stored the ilicit activities made by whoever which was visiting the island. The main technologies used for developing thi project were:
+ -C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers". ![Link](https://github.com/ramirezxc02/ISLApp.git)
  
  ![Robot](https://github.com/ramirezxc02/ramirezxc02/blob/main/Interface_Islapp.png)
 
@@ -58,7 +61,8 @@ public void registrarReporte()
             }
         }
 ```
-#### **Referrals** this is a company process, I can't give too much detailes due to company policies but it's an automation which take decisions based on information obtained from Images. I didn't develop this one but I added some Improvements, one of them was consume information from GCP buckets. The technologies on this projects are:
+#### **Referrals** 
+This is a company process, I can't give too much detailes due to company policies but it's an automation which take decisions based on information obtained from Images. I didn't develop this one but I added some Improvements, one of them was consume information from GCP buckets. The technologies on this projects are:
 ⭐Uipath Studio
 ⭐SQL Server
 ⭐BigQuery
