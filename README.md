@@ -19,13 +19,12 @@ I strive to deliver high-quality software that exceeds expectations.
 ## Experience
  **Software Engineer/RPA Specialist** at Equifax (2022 - Present) 🐱‍💻
   - Collaborate with stakeholders to gather feedback on existing automation solutions and identify areas for improvement.
-  - Evaluate new RPA tools, features, and techniques to determine their potential impact on existing processes.
   - Respond to user inquiries and support tickets related to bot operation, functionality, or performance.
   - Investigate and resolve issues reported by users or detected through monitoring tools.
   - Apply patches, updates, and enhancements to the automation solution to address bugs, improve reliability, or incorporate new features.
   - Configure bot settings, such as triggers, inputs, outputs, error handling, and security permissions.
   - Test the automation solution to ensure it performs as expected and meets the defined criteria.
-  - 
+
   **Volunteer WordPress Developer** at AIESEC  (2021)
   - Install and configure WordPress on web servers, including database setup and file permissions.
   - Customize WordPress settings, including permalinks, user roles, and media settings.
