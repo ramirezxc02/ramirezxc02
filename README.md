@@ -6,10 +6,14 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![.NET](https://img.shields.io/badge/.net-5646ED?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-I'm a passionate Software Engineer with expertise in automating processes using UiPath Studio and developing robust applications with SQL, C#, Java, and JavaScript. I also have experience with version control using GitHub and cloud computing with Google Cloud.
-
+I'm a passionate Software Engineer with expertise in automating processes using UiPath Studio and developing robust applications with SQL, C#, Java, and JavaScript. 
+I also have experience with version control using GitHub and cloud computing with Google Cloud.
 ## About Me
-I love solving complex problems and turning ideas into efficient solutions. With a keen eye for detail and a drive for continuous learning, I strive to deliver high-quality software that exceeds expectations.
+I love solving complex problems and turning ideas into efficient solutions. 
+With a keen eye for detail and a drive for continuous learning, 
+I strive to deliver high-quality software that exceeds expectations.
+
+![Robot](https://github.com/ramirezxc02/ramirezxc02/blob/main/robotGif.gif)
 
 ## Experience
 - **Software Engineer/RPA Specialist** at Equifax (2024 - Present)
@@ -20,7 +24,9 @@ I love solving complex problems and turning ideas into efficient solutions. With
   - Apply patches, updates, and enhancements to the automation solution to address bugs, improve reliability, or incorporate new features.
   - Configure bot settings, such as triggers, inputs, outputs, error handling, and security permissions.
   - Test the automation solution to ensure it performs as expected and meets the defined criteria.
-  
+ 
+## Some projects
+ ISLAPP this was one of my last university projects, and I'm really proud of it. This was created for "San Lucas Island" employers to automate the way that they stored the ilicit activities made by whoever which was visiting the island. The main technologies used for developing thi project were C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers". You can see further info here: Link to ISLAPP Repository
 ## Best Practices
 - **Clean Code Advocate:** I believe in writing clean, maintainable code following industry best practices to enhance readability and scalability.
 - **Agile Enthusiast:** Proficient in Agile methodologies, I thrive in fast-paced environments and adapt quickly to changing requirements.
