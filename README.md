@@ -39,7 +39,7 @@ I strive to deliver high-quality software that exceeds expectations.
   - Conduct frontend testing, including unit testing and end-to-end testing, to ensure functionality and compatibility across browsers and devices.
     
 ## Some projects
- #### **ISLAPP** this was one of my last university projects, and I'm really proud of it. This was created for "San Lucas Island" employers to automate the way that they stored the ilicit activities made by whoever which was visiting the island. The main technologies used for developing thi project were C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers". You can see further info here: Link to ISLAPP Repository.
+ #### **ISLAPP** this was one of my last university projects, and I'm really proud of it. This was created for "San Lucas Island" employers to automate the way that they stored the ilicit activities made by whoever which was visiting the island. The main technologies used for developing thi project were C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers". You can see further info here:
  
  ![Robot](https://github.com/ramirezxc02/ramirezxc02/blob/main/Interface_Islapp.png)
 
@@ -72,10 +72,22 @@ public void registrarReporte()
  ### **Referrals Bucket Module Test Case example** ✔
  ![Bucket]( https://github.com/ramirezxc02/ramirezxc02/blob/main/GCS_Bucket_TestCase.jpg)
 
- 
-#### **DD-Bot** this is a company process, I can't give too much detailes due to company policies but it's an automation which take decisions based on information obtained from Images. I didn't develop this one but I added some Improvements, one of them was consume information from GCP buckets. The technologies on this projects are:
- 
-## Best Practices
+
+#### **DD-Bot** This is an internal bot. It helps our team to distribuite the other bots. 🤖
++ Process:
+  1.Create a call to get current volumes and show them to the user by using the API from Orchestrator.
+  2. Receive an input which are the amount of bots to assign.
+  3. Send the new distribution using the API again. The technologies on this projects are: Uipath Studio,Uipath Orchestrator API, Uipath Forms, we also used json structure form payloads.
+  
+ ![RobotBebe](https://github.com/ramirezxc02/ramirezxc02/blob/main/polifolli-robot.gif)
+
+ ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+# **Automated Password bot** 😎 In progress...
+   This is an internal bot which will be in charge of update bots with the new password. This is necessary because we have to update more than 70 accounts 2 times per month.😥
+   This Bot interact with a internal platform where the new password is created and with orchestrator which is the place where the assets are located. This will contribute to the D2C support team.
+   ![Pacman](https://github.com/ramirezxc02/ramirezxc02/blob/main/Pacman.gif)
+   
+## Best Practices 🎉
 - **Clean Code Advocate:** I believe in writing clean, maintainable code following industry best practices to enhance readability and scalability.
 - **Agile Enthusiast:** Proficient in Agile methodologies, I thrive in fast-paced environments and adapt quickly to changing requirements.
 - **Modularize Code:** Break down the codebase into smaller, reusable modules or components. Modular code promotes code reusability, scalability, and testability, making it easier to manage and maintain.
@@ -83,16 +95,18 @@ public void registrarReporte()
 - **Stay Updated with Technology:** Keep abreast of emerging technologies, tools, and best practices relevant to your field. Continuous learning and professional development help you stay competitive and adapt to evolving industry trends.
 - **Optimize Performance:** Identify and address performance bottlenecks through profiling, optimization techniques, and efficient algorithms. Optimizing performance ensures that the software meets scalability and responsiveness requirements.
 
-## Technical Skills
-- **Programming Languages:** C#, Java, JavaScript
+## Technical Skills 🎇
 - **Automation Tools:** UiPath Studio
+- **Programming Languages:** C#, Java, JavaScript
 - **Database Management:** SQL
 - **Version Control:** GitHub
 - **Cloud Computing:** Google Cloud
 
-## Soft Skills
+## Soft Skills 🤝🏼
 - **Communication:** Effective communicator able to convey technical concepts to non-technical stakeholders.
 - **Problem-Solving:** Strong analytical skills with a knack for identifying and solving complex problems.
 - **Team Player:** Collaborative team member who fosters a positive and inclusive work environment.
 
-Feel free to reach out to me via [email](mailto:your@email.com) for collaborations or exciting opportunities! Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/) too!
+# Q&A ❓
+
+Feel free to reach out to me via [email](henoly.ramirez@equifax.com) for collaborations or exciting opportunities! Let's connect on [LinkedIn](www.linkedin.com/in/henoly-ramírez-575745203) too!
