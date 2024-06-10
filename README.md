@@ -41,7 +41,7 @@ I strive to deliver high-quality software that exceeds expectations.
 
  #### **ISLAPP** 
  This was one of my last university projects, and I'm really proud of it. This was created for "San Lucas Island" employers to automate the way that they stored the ilicit activities made by whoever which was visiting the island. The main technologies used for developing thi project were:
- -C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers". ![Link](https://github.com/ramirezxc02/ISLApp.git)
+ -C#, .Net Framework, GitHub, SQL server and the architecture was "Multi-Layers".
  
  ![Robot](https://github.com/ramirezxc02/ramirezxc02/blob/main/Interface_Islapp.png)
 
